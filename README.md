@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [s-shemmee/React-Weather-App](https://github.com/s-shemmee/React-Weather-App), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (GPL-3.0).
+
 # React Weather App
 This is a web app developed as a final project for SheCodes React using React.js. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
 
