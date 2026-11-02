@@ -21,7 +21,8 @@ To use this app, you can follow these steps:
 
 - Clone the repository or download the source code.
 - Open the project in your preferred code editor.
-- Run  `npm install` to install the necessary dependencies.
+- Run `npm install` to install the necessary dependencies.
+- Create a `.env` file in the project root with your SheCodes Weather API key: `REACT_APP_WEATHER_API_KEY=your_api_key`. A free key is available from the [SheCodes Weather API](https://www.shecodes.io/learn/apis/weather).
 - Run `npm start` to start the development server.
 - Open your browser and navigate to `http://localhost:3000` to use the app.
 
